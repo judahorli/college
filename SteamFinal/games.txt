@@ -1,0 +1,21 @@
+Game	AppID
+Fallout: New Vegas	22380
+The Witcher 3: Wild Hunt	292030
+Dark Souls: Prepare to Die Edition	211420
+Half-Life 2	220
+Mass Effect 2	24980
+Dishonored	205100
+Portal	400
+Grand Theft Auto V	271590
+The Elder Scrolls V: Skyrim	72850
+Kerbal Space Program	220200
+BioShock	7670
+Portal 2	620
+Sid Meiers Civilization V	8930
+Left 4 Dead 2	550
+Counter-Strike: Global Offensive	730
+Fallout 4	377160
+Terraria	105600
+Half-Life	70
+BioShock Infinite	8870
+FEZ	224760

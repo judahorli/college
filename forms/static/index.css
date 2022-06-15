@@ -1,0 +1,20 @@
+nav, footer{
+	border: 3px solid black;
+	padding: 20px;
+	text-align: center;
+}
+
+body{
+	background-color: #FFCCFF;
+	font-family: Verdana,sans-serif;
+	padding-bottom: 100px;
+}
+
+.contactform{
+	margin:10px;
+	display:inline-block;
+	width:40%;
+	padding: 20px;
+	border: 1px solid black;
+	text-align: justify;
+}
